@@ -1,0 +1,301 @@
+﻿ID,Mensagem,Classe,promocao,desconto,gratis,premio,oferta,ganhe,urgente,reuniao,projeto,relatorio,equipe,cliente,prazo,agenda,documento,acesso,conta
+1,promocao promocao promocao promocao premio oferta oferta oferta reuniao reuniao,Spam,4,0,0,1,3,0,0,2,0,0,0,0,0,0,0,0,0
+2,promocao desconto desconto premio ganhe ganhe urgente cliente acesso acesso,Spam,1,2,0,1,0,2,1,0,0,0,0,1,0,0,0,2,0
+3,desconto desconto premio premio relatorio equipe,Spam,0,2,0,2,0,0,0,0,0,1,1,0,0,0,0,0,0
+4,promocao promocao promocao desconto desconto desconto desconto premio projeto relatorio relatorio prazo,Spam,3,4,0,1,0,0,0,0,1,2,0,0,1,0,0,0,0
+5,promocao projeto relatorio conta,Spam,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+6,promocao urgente urgente cliente acesso,Spam,1,0,0,0,0,0,2,0,0,0,0,1,0,0,0,1,0
+7,promocao desconto desconto desconto desconto gratis gratis oferta oferta oferta oferta urgente relatorio cliente,Spam,1,4,2,0,4,0,1,0,0,1,0,1,0,0,0,0,0
+8,promocao promocao promocao gratis gratis gratis reuniao reuniao equipe prazo acesso,Spam,3,0,3,0,0,0,0,2,0,0,1,0,1,0,0,1,0
+9,desconto gratis gratis gratis gratis oferta oferta oferta relatorio relatorio,Spam,0,1,4,0,3,0,0,0,0,2,0,0,0,0,0,0,0
+10,gratis ganhe reuniao,Spam,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+11,premio oferta conta,Spam,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+12,promocao promocao promocao promocao oferta oferta oferta oferta,Spam,4,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+13,desconto desconto premio,Spam,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,oferta oferta ganhe ganhe urgente equipe conta,Spam,0,0,0,0,2,2,1,0,0,0,1,0,0,0,0,0,1
+15,promocao cliente conta,Spam,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1
+16,promocao promocao premio premio cliente prazo conta,Spam,2,0,0,2,0,0,0,0,0,0,0,1,1,0,0,0,1
+17,promocao desconto desconto oferta oferta equipe cliente,Spam,1,2,0,0,2,0,0,0,0,0,1,1,0,0,0,0,0
+18,promocao promocao promocao promocao desconto desconto desconto desconto premio oferta ganhe ganhe ganhe urgente projeto projeto,Spam,4,4,0,1,1,3,1,0,2,0,0,0,0,0,0,0,0
+19,promocao promocao promocao oferta oferta oferta ganhe ganhe ganhe ganhe,Spam,3,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0
+20,promocao promocao promocao promocao desconto agenda documento,Spam,4,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+21,promocao desconto desconto desconto premio ganhe ganhe ganhe reuniao conta conta,Spam,1,3,0,1,0,3,0,1,0,0,0,0,0,0,0,0,2
+22,desconto desconto desconto desconto gratis gratis premio oferta ganhe ganhe documento documento acesso acesso,Spam,0,4,2,1,1,2,0,0,0,0,0,0,0,0,2,2,0
+23,desconto desconto equipe conta,Spam,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+24,promocao promocao desconto desconto desconto desconto oferta reuniao reuniao acesso,Spam,2,4,0,0,1,0,0,2,0,0,0,0,0,0,0,1,0
+25,gratis gratis equipe equipe,Spam,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+26,desconto desconto gratis gratis gratis gratis oferta oferta oferta reuniao conta,Spam,0,2,4,0,3,0,0,1,0,0,0,0,0,0,0,0,1
+27,premio oferta oferta conta conta,Spam,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,2
+28,promocao desconto desconto desconto desconto premio oferta ganhe urgente acesso,Spam,1,4,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0
+29,promocao desconto desconto gratis gratis ganhe ganhe ganhe reuniao reuniao relatorio,Spam,1,2,2,0,0,3,0,2,0,1,0,0,0,0,0,0,0
+30,promocao promocao gratis reuniao prazo acesso acesso,Spam,2,0,1,0,0,0,0,1,0,0,0,0,1,0,0,2,0
+31,premio reuniao acesso conta,Spam,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+32,promocao desconto desconto desconto desconto gratis gratis ganhe ganhe,Spam,1,4,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0
+33,promocao desconto desconto gratis oferta oferta ganhe ganhe reuniao projeto,Spam,1,2,1,0,2,2,0,1,1,0,0,0,0,0,0,0,0
+34,promocao oferta oferta oferta urgente,Spam,1,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0
+35,promocao promocao gratis gratis gratis oferta oferta ganhe ganhe ganhe agenda agenda conta conta,Spam,2,0,3,0,2,3,0,0,0,0,0,0,0,2,0,0,2
+36,oferta ganhe ganhe ganhe urgente cliente cliente prazo,Spam,0,0,0,0,1,3,1,0,0,0,0,2,1,0,0,0,0
+37,oferta ganhe ganhe ganhe ganhe documento documento,Spam,0,0,0,0,1,4,0,0,0,0,0,0,0,0,2,0,0
+38,premio,Spam,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+39,desconto gratis gratis gratis premio oferta oferta prazo,Spam,0,1,3,1,2,0,0,0,0,0,0,0,1,0,0,0,0
+40,gratis gratis gratis premio premio oferta oferta ganhe ganhe ganhe ganhe projeto agenda acesso acesso,Spam,0,0,3,2,2,4,0,0,1,0,0,0,0,1,0,2,0
+41,promocao promocao desconto desconto gratis ganhe projeto cliente documento conta,Spam,2,2,1,0,0,1,0,0,1,0,0,1,0,0,1,0,1
+42,promocao desconto desconto desconto oferta oferta oferta ganhe reuniao relatorio,Spam,1,3,0,0,3,1,0,1,0,1,0,0,0,0,0,0,0
+43,desconto desconto gratis gratis oferta oferta oferta oferta urgente urgente cliente acesso acesso,Spam,0,2,2,0,4,0,2,0,0,0,0,1,0,0,0,2,0
+44,promocao desconto premio oferta oferta projeto,Spam,1,1,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0
+45,promocao promocao desconto premio oferta oferta ganhe ganhe documento conta,Spam,2,1,0,1,2,2,0,0,0,0,0,0,0,0,1,0,1
+46,desconto desconto desconto gratis oferta oferta oferta urgente urgente prazo prazo conta,Spam,0,3,1,0,3,0,2,0,0,0,0,0,2,0,0,0,1
+47,urgente equipe acesso,Spam,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+48,projeto cliente documento,Spam,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0
+49,promocao promocao premio ganhe ganhe ganhe ganhe,Spam,2,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0
+50,desconto desconto premio oferta ganhe urgente documento,Spam,0,2,0,1,1,1,1,0,0,0,0,0,0,0,1,0,0
+51,promocao promocao desconto desconto desconto desconto gratis gratis gratis gratis urgente cliente cliente acesso,Spam,2,4,4,0,0,0,1,0,0,0,0,2,0,0,0,1,0
+52,desconto desconto desconto gratis urgente urgente projeto projeto documento,Spam,0,3,1,0,0,0,2,0,2,0,0,0,0,0,1,0,0
+53,desconto gratis gratis gratis premio premio oferta oferta,Spam,0,1,3,2,2,0,0,0,0,0,0,0,0,0,0,0,0
+54,ganhe ganhe ganhe ganhe reuniao reuniao projeto documento,Spam,0,0,0,0,0,4,0,2,1,0,0,0,0,0,1,0,0
+55,desconto desconto oferta oferta oferta agenda acesso,Spam,0,2,0,0,3,0,0,0,0,0,0,0,0,1,0,1,0
+56,desconto desconto desconto desconto ganhe ganhe ganhe urgente conta conta,Spam,0,4,0,0,0,3,1,0,0,0,0,0,0,0,0,0,2
+57,desconto oferta oferta oferta oferta ganhe ganhe conta,Spam,0,1,0,0,4,2,0,0,0,0,0,0,0,0,0,0,1
+58,promocao promocao promocao desconto desconto desconto desconto gratis gratis gratis projeto agenda conta,Spam,3,4,3,0,0,0,0,0,1,0,0,0,0,1,0,0,1
+59,promocao promocao desconto desconto desconto gratis gratis premio oferta oferta urgente relatorio,Spam,2,3,2,1,2,0,1,0,0,1,0,0,0,0,0,0,0
+60,desconto premio oferta ganhe cliente agenda agenda documento,Spam,0,1,0,1,1,1,0,0,0,0,0,1,0,2,1,0,0
+61,gratis gratis gratis premio premio oferta oferta oferta relatorio cliente cliente,Spam,0,0,3,2,3,0,0,0,0,1,0,2,0,0,0,0,0
+62,desconto desconto premio premio urgente reuniao,Spam,0,2,0,2,0,0,1,1,0,0,0,0,0,0,0,0,0
+63,promocao promocao promocao gratis gratis gratis,Spam,3,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,promocao gratis gratis gratis oferta oferta oferta oferta conta conta,Spam,1,0,3,0,4,0,0,0,0,0,0,0,0,0,0,0,2
+65,promocao desconto premio premio oferta reuniao projeto conta,Spam,1,1,0,2,1,0,0,1,1,0,0,0,0,0,0,0,1
+66,promocao promocao gratis ganhe ganhe urgente relatorio relatorio conta,Spam,2,0,1,0,0,2,1,0,0,2,0,0,0,0,0,0,1
+67,promocao promocao promocao desconto desconto desconto premio oferta oferta oferta ganhe ganhe ganhe agenda agenda conta,Spam,3,3,0,1,3,3,0,0,0,0,0,0,0,2,0,0,1
+68,promocao promocao promocao desconto desconto desconto premio premio oferta oferta oferta oferta,Spam,3,3,0,2,4,0,0,0,0,0,0,0,0,0,0,0,0
+69,promocao promocao desconto gratis gratis oferta oferta ganhe ganhe urgente acesso,Spam,2,1,2,0,2,2,1,0,0,0,0,0,0,0,0,1,0
+70,promocao promocao reuniao projeto prazo prazo documento,Spam,2,0,0,0,0,0,0,1,1,0,0,0,2,0,1,0,0
+71,promocao promocao promocao gratis gratis oferta oferta ganhe,Spam,3,0,2,0,2,1,0,0,0,0,0,0,0,0,0,0,0
+72,promocao promocao ganhe,Spam,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+73,promocao promocao desconto desconto gratis gratis gratis oferta ganhe ganhe,Spam,2,2,3,0,1,2,0,0,0,0,0,0,0,0,0,0,0
+74,premio urgente reuniao reuniao prazo agenda agenda,Spam,0,0,0,1,0,0,1,2,0,0,0,0,1,2,0,0,0
+75,gratis relatorio cliente documento,Spam,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+76,premio oferta oferta oferta oferta equipe equipe cliente cliente documento,Spam,0,0,0,1,4,0,0,0,0,0,2,2,0,0,1,0,0
+77,promocao promocao promocao promocao gratis gratis prazo prazo,Spam,4,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+78,desconto gratis oferta oferta oferta oferta reuniao reuniao prazo conta,Spam,0,1,1,0,4,0,0,2,0,0,0,0,1,0,0,0,1
+79,promocao promocao promocao promocao oferta oferta urgente cliente cliente agenda agenda documento conta,Spam,4,0,0,0,2,0,1,0,0,0,0,2,0,2,1,0,1
+80,promocao desconto desconto desconto gratis gratis,Spam,1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+81,gratis gratis oferta urgente projeto agenda conta,Spam,0,0,2,0,1,0,1,0,1,0,0,0,0,1,0,0,1
+82,promocao oferta oferta documento documento,Spam,1,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0
+83,oferta oferta ganhe ganhe ganhe projeto equipe cliente cliente,Spam,0,0,0,0,2,3,0,0,1,0,1,2,0,0,0,0,0
+84,desconto gratis gratis gratis oferta ganhe ganhe ganhe ganhe urgente urgente acesso acesso,Spam,0,1,3,0,1,4,2,0,0,0,0,0,0,0,0,2,0
+85,promocao promocao promocao promocao urgente acesso,Spam,4,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+86,desconto desconto desconto ganhe ganhe ganhe cliente documento acesso,Spam,0,3,0,0,0,3,0,0,0,0,0,1,0,0,1,1,0
+87,promocao promocao urgente cliente prazo acesso,Spam,2,0,0,0,0,0,1,0,0,0,0,1,1,0,0,1,0
+88,promocao promocao premio urgente urgente reuniao prazo,Spam,2,0,0,1,0,0,2,1,0,0,0,0,1,0,0,0,0
+89,oferta oferta oferta ganhe ganhe projeto cliente,Spam,0,0,0,0,3,2,0,0,1,0,0,1,0,0,0,0,0
+90,promocao promocao promocao desconto gratis projeto equipe,Spam,3,1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+91,gratis gratis oferta oferta urgente projeto,Spam,0,0,2,0,2,0,1,0,1,0,0,0,0,0,0,0,0
+92,desconto desconto desconto oferta prazo prazo acesso,Spam,0,3,0,0,1,0,0,0,0,0,0,0,2,0,0,1,0
+93,promocao gratis oferta oferta oferta ganhe ganhe urgente projeto prazo conta,Spam,1,0,1,0,3,2,1,0,1,0,0,0,1,0,0,0,1
+94,promocao promocao promocao gratis gratis gratis premio oferta oferta oferta oferta reuniao agenda agenda acesso,Spam,3,0,3,1,4,0,0,1,0,0,0,0,0,2,0,1,0
+95,promocao promocao desconto relatorio prazo prazo acesso,Spam,2,1,0,0,0,0,0,0,0,1,0,0,2,0,0,1,0
+96,promocao oferta oferta reuniao prazo,Spam,1,0,0,0,2,0,0,1,0,0,0,0,1,0,0,0,0
+97,promocao promocao desconto desconto desconto ganhe ganhe ganhe ganhe reuniao conta conta,Spam,2,3,0,0,0,4,0,1,0,0,0,0,0,0,0,0,2
+98,desconto desconto premio premio cliente cliente documento,Spam,0,2,0,2,0,0,0,0,0,0,0,2,0,0,1,0,0
+99,desconto desconto desconto gratis gratis gratis oferta oferta oferta ganhe ganhe prazo documento acesso,Spam,0,3,3,0,3,2,0,0,0,0,0,0,1,0,1,1,0
+100,projeto cliente,Spam,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+101,gratis premio documento,Spam,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+102,promocao promocao gratis gratis premio ganhe ganhe ganhe urgente urgente relatorio relatorio acesso,Spam,2,0,2,1,0,3,2,0,0,2,0,0,0,0,0,1,0
+103,promocao desconto desconto gratis gratis premio ganhe ganhe ganhe ganhe cliente agenda,Spam,1,2,2,1,0,4,0,0,0,0,0,1,0,1,0,0,0
+104,promocao promocao promocao gratis,Spam,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+105,premio oferta oferta prazo acesso,Spam,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,1,0
+106,desconto desconto gratis gratis premio oferta ganhe urgente documento acesso,Spam,0,2,2,1,1,1,1,0,0,0,0,0,0,0,1,1,0
+107,desconto desconto desconto premio oferta oferta agenda documento acesso,Spam,0,3,0,1,2,0,0,0,0,0,0,0,0,1,1,1,0
+108,promocao promocao desconto desconto gratis gratis oferta ganhe ganhe ganhe ganhe equipe acesso acesso conta,Spam,2,2,2,0,1,4,0,0,0,0,1,0,0,0,0,2,1
+109,promocao desconto oferta,Spam,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+110,oferta cliente prazo prazo acesso,Spam,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,1,0
+111,promocao desconto oferta projeto relatorio prazo acesso acesso,Spam,1,1,0,0,1,0,0,0,1,1,0,0,1,0,0,2,0
+112,promocao promocao promocao promocao desconto desconto desconto desconto gratis gratis gratis gratis urgente urgente cliente,Spam,4,4,4,0,0,0,2,0,0,0,0,1,0,0,0,0,0
+113,promocao desconto gratis gratis gratis gratis oferta oferta ganhe ganhe conta,Spam,1,1,4,0,2,2,0,0,0,0,0,0,0,0,0,0,1
+114,promocao oferta oferta oferta ganhe ganhe ganhe urgente urgente,Spam,1,0,0,0,3,3,2,0,0,0,0,0,0,0,0,0,0
+115,promocao gratis gratis agenda agenda,Spam,1,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+116,promocao promocao promocao promocao desconto desconto oferta oferta projeto documento documento,Spam,4,2,0,0,2,0,0,0,1,0,0,0,0,0,2,0,0
+117,promocao oferta oferta oferta equipe cliente agenda documento documento conta conta,Spam,1,0,0,0,3,0,0,0,0,0,1,1,0,1,2,0,2
+118,promocao desconto desconto oferta urgente,Spam,1,2,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+119,desconto desconto gratis gratis gratis gratis oferta oferta urgente,Spam,0,2,4,0,2,0,1,0,0,0,0,0,0,0,0,0,0
+120,promocao gratis gratis gratis premio oferta ganhe ganhe ganhe urgente urgente reuniao,Spam,1,0,3,1,1,3,2,1,0,0,0,0,0,0,0,0,0
+121,promocao promocao promocao promocao desconto desconto desconto desconto gratis gratis gratis oferta oferta urgente documento documento conta,Spam,4,4,3,0,2,0,1,0,0,0,0,0,0,0,2,0,1
+122,gratis gratis premio oferta,Spam,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+123,promocao promocao promocao gratis gratis ganhe ganhe ganhe ganhe urgente reuniao cliente agenda,Spam,3,0,2,0,0,4,1,1,0,0,0,1,0,1,0,0,0
+124,promocao promocao desconto desconto ganhe ganhe ganhe equipe equipe prazo agenda,Spam,2,2,0,0,0,3,0,0,0,0,2,0,1,1,0,0,0
+125,promocao desconto desconto oferta oferta oferta oferta equipe acesso acesso,Spam,1,2,0,0,4,0,0,0,0,0,1,0,0,0,0,2,0
+126,oferta oferta ganhe urgente,Spam,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0
+127,promocao promocao premio oferta oferta urgente urgente cliente conta,Spam,2,0,0,1,2,0,2,0,0,0,0,1,0,0,0,0,1
+128,promocao desconto desconto desconto ganhe ganhe ganhe ganhe urgente urgente documento conta conta,Spam,1,3,0,0,0,4,2,0,0,0,0,0,0,0,1,0,2
+129,urgente cliente documento,Spam,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+130,promocao promocao desconto oferta oferta ganhe ganhe reuniao cliente cliente,Spam,2,1,0,0,2,2,0,1,0,0,0,2,0,0,0,0,0
+131,desconto desconto desconto gratis gratis ganhe reuniao relatorio,Spam,0,3,2,0,0,1,0,1,0,1,0,0,0,0,0,0,0
+132,promocao promocao promocao desconto desconto acesso,Spam,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+133,promocao promocao premio urgente urgente equipe prazo documento documento,Spam,2,0,0,1,0,0,2,0,0,0,1,0,1,0,2,0,0
+134,promocao desconto desconto desconto premio,Spam,1,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,promocao promocao gratis gratis oferta oferta oferta reuniao prazo,Spam,2,0,2,0,3,0,0,1,0,0,0,0,1,0,0,0,0
+136,,Spam,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,desconto desconto gratis gratis gratis oferta urgente documento,Spam,0,2,3,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+138,promocao promocao promocao gratis oferta ganhe ganhe ganhe ganhe agenda documento,Spam,3,0,1,0,1,4,0,0,0,0,0,0,0,1,1,0,0
+139,promocao promocao desconto desconto desconto gratis oferta oferta reuniao acesso,Spam,2,3,1,0,2,0,0,1,0,0,0,0,0,0,0,1,0
+140,promocao promocao promocao promocao desconto desconto gratis gratis gratis gratis premio,Spam,4,2,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+141,promocao gratis urgente,Spam,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+142,promocao oferta oferta projeto,Spam,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0
+143,promocao desconto oferta reuniao prazo acesso conta,Spam,1,1,0,0,1,0,0,1,0,0,0,0,1,0,0,1,1
+144,promocao desconto desconto desconto oferta oferta oferta oferta acesso,Spam,1,3,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0
+145,gratis gratis documento documento,Spam,0,0,2,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+146,promocao gratis gratis oferta oferta oferta projeto relatorio documento conta,Spam,1,0,2,0,3,0,0,0,1,1,0,0,0,0,1,0,1
+147,promocao promocao desconto desconto desconto premio premio ganhe ganhe relatorio,Spam,2,3,0,2,0,2,0,0,0,1,0,0,0,0,0,0,0
+148,desconto desconto gratis gratis gratis premio oferta ganhe equipe cliente cliente documento,Spam,0,2,3,1,1,1,0,0,0,0,1,2,0,0,1,0,0
+149,promocao desconto gratis gratis gratis gratis conta,Spam,1,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+150,promocao desconto desconto desconto gratis gratis oferta oferta urgente urgente reuniao prazo,Spam,1,3,2,0,2,0,2,1,0,0,0,0,1,0,0,0,0
+151,reuniao projeto projeto equipe prazo prazo documento acesso,Trabalho,0,0,0,0,0,0,0,1,2,0,1,0,2,0,1,1,0
+152,reuniao projeto projeto cliente documento documento,Trabalho,0,0,0,0,0,0,0,1,2,0,0,1,0,0,2,0,0
+153,promocao promocao urgente relatorio,Trabalho,2,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+154,urgente reuniao projeto projeto projeto relatorio equipe equipe cliente cliente documento,Trabalho,0,0,0,0,0,0,1,1,3,1,2,2,0,0,1,0,0
+155,reuniao reuniao cliente agenda documento acesso acesso conta,Trabalho,0,0,0,0,0,0,0,2,0,0,0,1,0,1,1,2,1
+156,promocao relatorio relatorio equipe prazo prazo conta,Trabalho,1,0,0,0,0,0,0,0,0,2,1,0,2,0,0,0,1
+157,desconto reuniao cliente cliente,Trabalho,0,1,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0
+158,reuniao reuniao reuniao relatorio relatorio equipe equipe equipe conta,Trabalho,0,0,0,0,0,0,0,3,0,2,3,0,0,0,0,0,1
+159,oferta projeto cliente cliente prazo prazo documento,Trabalho,0,0,0,0,1,0,0,0,1,0,0,2,2,0,1,0,0
+160,reuniao reuniao projeto projeto projeto cliente prazo agenda,Trabalho,0,0,0,0,0,0,0,2,3,0,0,1,1,1,0,0,0
+161,projeto projeto projeto cliente cliente prazo agenda agenda,Trabalho,0,0,0,0,0,0,0,0,3,0,0,2,1,2,0,0,0
+162,promocao desconto urgente equipe prazo agenda documento conta,Trabalho,1,1,0,0,0,0,1,0,0,0,1,0,1,1,1,0,1
+163,desconto oferta projeto projeto relatorio cliente prazo agenda agenda documento,Trabalho,0,1,0,0,1,0,0,0,2,1,0,1,1,2,1,0,0
+164,relatorio equipe equipe prazo prazo agenda agenda,Trabalho,0,0,0,0,0,0,0,0,0,1,2,0,2,2,0,0,0
+165,desconto projeto projeto relatorio relatorio equipe equipe cliente prazo documento documento,Trabalho,0,1,0,0,0,0,0,0,2,2,2,1,1,0,2,0,0
+166,promocao premio urgente reuniao relatorio equipe equipe equipe documento conta,Trabalho,1,0,0,1,0,0,1,1,0,1,3,0,0,0,1,0,1
+167,desconto projeto relatorio relatorio prazo prazo agenda documento,Trabalho,0,1,0,0,0,0,0,0,1,2,0,0,2,1,1,0,0
+168,premio reuniao projeto relatorio relatorio equipe equipe cliente prazo prazo agenda agenda documento documento acesso,Trabalho,0,0,0,1,0,0,0,1,1,2,2,1,2,2,2,1,0
+169,gratis reuniao cliente cliente agenda agenda,Trabalho,0,0,1,0,0,0,0,1,0,0,0,2,0,2,0,0,0
+170,premio reuniao projeto relatorio prazo documento acesso conta conta,Trabalho,0,0,0,1,0,0,0,1,1,1,0,0,1,0,1,1,2
+171,reuniao reuniao reuniao equipe cliente cliente prazo,Trabalho,0,0,0,0,0,0,0,3,0,0,1,2,1,0,0,0,0
+172,reuniao reuniao projeto relatorio cliente prazo prazo documento,Trabalho,0,0,0,0,0,0,0,2,1,1,0,1,2,0,1,0,0
+173,urgente urgente projeto projeto relatorio cliente documento conta,Trabalho,0,0,0,0,0,0,2,0,2,1,0,1,0,0,1,0,1
+174,reuniao projeto equipe prazo prazo agenda agenda,Trabalho,0,0,0,0,0,0,0,1,1,0,1,0,2,2,0,0,0
+175,oferta reuniao equipe cliente cliente cliente prazo prazo prazo acesso,Trabalho,0,0,0,0,1,0,0,1,0,0,1,3,3,0,0,1,0
+176,ganhe urgente relatorio cliente cliente conta,Trabalho,0,0,0,0,0,1,1,0,0,1,0,2,0,0,0,0,1
+177,premio reuniao projeto projeto projeto relatorio agenda agenda,Trabalho,0,0,0,1,0,0,0,1,3,1,0,0,0,2,0,0,0
+178,projeto projeto relatorio relatorio equipe prazo prazo,Trabalho,0,0,0,0,0,0,0,0,2,2,1,0,2,0,0,0,0
+179,desconto gratis gratis equipe equipe cliente cliente cliente prazo prazo acesso acesso conta,Trabalho,0,1,2,0,0,0,0,0,0,0,2,3,2,0,0,2,1
+180,oferta projeto relatorio prazo agenda agenda acesso,Trabalho,0,0,0,0,1,0,0,0,1,1,0,0,1,2,0,1,0
+181,gratis ganhe urgente urgente reuniao relatorio relatorio relatorio cliente cliente prazo prazo prazo agenda documento,Trabalho,0,0,1,0,0,1,2,1,0,3,0,2,3,1,1,0,0
+182,oferta reuniao relatorio equipe cliente cliente prazo prazo acesso,Trabalho,0,0,0,0,1,0,0,1,0,1,1,2,2,0,0,1,0
+183,premio urgente reuniao reuniao reuniao relatorio equipe conta,Trabalho,0,0,0,1,0,0,1,3,0,1,1,0,0,0,0,0,1
+184,premio premio oferta oferta equipe prazo agenda acesso acesso,Trabalho,0,0,0,2,2,0,0,0,0,0,1,0,1,1,0,2,0
+185,premio premio oferta oferta reuniao reuniao projeto projeto projeto relatorio agenda,Trabalho,0,0,0,2,2,0,0,2,3,1,0,0,0,1,0,0,0
+186,relatorio equipe equipe prazo prazo agenda,Trabalho,0,0,0,0,0,0,0,0,0,1,2,0,2,1,0,0,0
+187,promocao gratis relatorio relatorio relatorio agenda,Trabalho,1,0,1,0,0,0,0,0,0,3,0,0,0,1,0,0,0
+188,desconto equipe cliente acesso,Trabalho,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0
+189,oferta oferta reuniao equipe prazo agenda,Trabalho,0,0,0,0,2,0,0,1,0,0,1,0,1,1,0,0,0
+190,desconto urgente reuniao relatorio relatorio documento,Trabalho,0,1,0,0,0,0,1,1,0,2,0,0,0,0,1,0,0
+191,oferta relatorio relatorio cliente prazo acesso,Trabalho,0,0,0,0,1,0,0,0,0,2,0,1,1,0,0,1,0
+192,promocao premio oferta relatorio cliente,Trabalho,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0
+193,projeto relatorio relatorio cliente cliente prazo prazo,Trabalho,0,0,0,0,0,0,0,0,1,2,0,2,2,0,0,0,0
+194,promocao premio projeto relatorio cliente acesso acesso,Trabalho,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,2,0
+195,reuniao projeto equipe,Trabalho,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+196,desconto urgente reuniao prazo,Trabalho,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+197,desconto desconto ganhe reuniao reuniao reuniao relatorio relatorio cliente cliente cliente prazo prazo agenda,Trabalho,0,2,0,0,0,1,0,3,0,2,0,3,2,1,0,0,0
+198,promocao ganhe ganhe reuniao relatorio relatorio agenda agenda conta,Trabalho,1,0,0,0,0,2,0,1,0,2,0,0,0,2,0,0,1
+199,gratis reuniao projeto relatorio equipe prazo documento acesso,Trabalho,0,0,1,0,0,0,0,1,1,1,1,0,1,0,1,1,0
+200,oferta ganhe projeto projeto projeto equipe cliente prazo prazo agenda,Trabalho,0,0,0,0,1,1,0,0,3,0,1,1,2,1,0,0,0
+201,promocao gratis reuniao projeto relatorio relatorio relatorio prazo agenda documento documento,Trabalho,1,0,1,0,0,0,0,1,1,3,0,0,1,1,2,0,0
+202,gratis relatorio equipe equipe equipe cliente cliente prazo prazo,Trabalho,0,0,1,0,0,0,0,0,0,1,3,2,2,0,0,0,0
+203,desconto projeto projeto relatorio equipe equipe equipe documento,Trabalho,0,1,0,0,0,0,0,0,2,1,3,0,0,0,1,0,0
+204,oferta reuniao reuniao projeto cliente cliente,Trabalho,0,0,0,0,1,0,0,2,1,0,0,2,0,0,0,0,0
+205,promocao ganhe projeto projeto equipe cliente cliente agenda acesso,Trabalho,1,0,0,0,0,1,0,0,2,0,1,2,0,1,0,1,0
+206,reuniao projeto relatorio prazo prazo agenda documento acesso,Trabalho,0,0,0,0,0,0,0,1,1,1,0,0,2,1,1,1,0
+207,desconto ganhe reuniao reuniao agenda agenda documento,Trabalho,0,1,0,0,0,1,0,2,0,0,0,0,0,2,1,0,0
+208,desconto desconto reuniao projeto projeto projeto cliente cliente conta,Trabalho,0,2,0,0,0,0,0,1,3,0,0,2,0,0,0,0,1
+209,projeto relatorio prazo prazo acesso acesso,Trabalho,0,0,0,0,0,0,0,0,1,1,0,0,2,0,0,2,0
+210,desconto reuniao reuniao reuniao equipe equipe agenda conta,Trabalho,0,1,0,0,0,0,0,3,0,0,2,0,0,1,0,0,1
+211,relatorio relatorio relatorio equipe equipe agenda agenda documento,Trabalho,0,0,0,0,0,0,0,0,0,3,2,0,0,2,1,0,0
+212,reuniao reuniao projeto projeto cliente cliente,Trabalho,0,0,0,0,0,0,0,2,2,0,0,2,0,0,0,0,0
+213,promocao gratis gratis projeto projeto relatorio equipe equipe prazo agenda,Trabalho,1,0,2,0,0,0,0,0,2,1,2,0,1,1,0,0,0
+214,desconto desconto premio projeto projeto equipe cliente cliente agenda,Trabalho,0,2,0,1,0,0,0,0,2,0,1,2,0,1,0,0,0
+215,desconto oferta oferta reuniao projeto projeto equipe prazo acesso,Trabalho,0,1,0,0,2,0,0,1,2,0,1,0,1,0,0,1,0
+216,desconto gratis reuniao reuniao reuniao relatorio relatorio equipe equipe equipe documento,Trabalho,0,1,1,0,0,0,0,3,0,2,3,0,0,0,1,0,0
+217,promocao gratis reuniao projeto relatorio cliente prazo prazo prazo conta conta,Trabalho,1,0,1,0,0,0,0,1,1,1,0,1,3,0,0,0,2
+218,promocao reuniao relatorio relatorio cliente cliente cliente prazo prazo prazo agenda agenda documento,Trabalho,1,0,0,0,0,0,0,1,0,2,0,3,3,2,1,0,0
+219,reuniao reuniao projeto projeto relatorio documento acesso,Trabalho,0,0,0,0,0,0,0,2,2,1,0,0,0,0,1,1,0
+220,promocao oferta reuniao reuniao projeto projeto projeto relatorio relatorio equipe equipe cliente,Trabalho,1,0,0,0,1,0,0,2,3,2,2,1,0,0,0,0,0
+221,promocao oferta reuniao projeto prazo prazo agenda acesso,Trabalho,1,0,0,0,1,0,0,1,1,0,0,0,2,1,0,1,0
+222,gratis oferta reuniao projeto equipe cliente agenda agenda documento,Trabalho,0,0,1,0,1,0,0,1,1,0,1,1,0,2,1,0,0
+223,projeto projeto projeto prazo documento,Trabalho,0,0,0,0,0,0,0,0,3,0,0,0,1,0,1,0,0
+224,relatorio cliente cliente,Trabalho,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0
+225,desconto reuniao reuniao projeto relatorio relatorio equipe,Trabalho,0,1,0,0,0,0,0,2,1,2,1,0,0,0,0,0,0
+226,oferta ganhe reuniao reuniao relatorio,Trabalho,0,0,0,0,1,1,0,2,0,1,0,0,0,0,0,0,0
+227,desconto desconto reuniao reuniao reuniao projeto projeto projeto relatorio relatorio cliente prazo prazo acesso conta,Trabalho,0,2,0,0,0,0,0,3,3,2,0,1,2,0,0,1,1
+228,reuniao projeto projeto relatorio agenda,Trabalho,0,0,0,0,0,0,0,1,2,1,0,0,0,1,0,0,0
+229,reuniao reuniao projeto projeto relatorio relatorio equipe cliente cliente prazo documento documento,Trabalho,0,0,0,0,0,0,0,2,2,2,1,2,1,0,2,0,0
+230,gratis ganhe reuniao relatorio relatorio equipe cliente prazo prazo agenda conta,Trabalho,0,0,1,0,0,1,0,1,0,2,1,1,2,1,0,0,1
+231,promocao desconto desconto premio reuniao relatorio equipe cliente,Trabalho,1,2,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0
+232,reuniao reuniao reuniao projeto prazo conta,Trabalho,0,0,0,0,0,0,0,3,1,0,0,0,1,0,0,0,1
+233,premio urgente projeto projeto projeto prazo agenda agenda,Trabalho,0,0,0,1,0,0,1,0,3,0,0,0,1,2,0,0,0
+234,ganhe reuniao reuniao reuniao projeto relatorio relatorio equipe equipe cliente prazo prazo documento,Trabalho,0,0,0,0,0,1,0,3,1,2,2,1,2,0,1,0,0
+235,desconto desconto reuniao cliente cliente agenda documento,Trabalho,0,2,0,0,0,0,0,1,0,0,0,2,0,1,1,0,0
+236,urgente urgente reuniao relatorio relatorio equipe equipe cliente prazo agenda acesso,Trabalho,0,0,0,0,0,0,2,1,0,2,2,1,1,1,0,1,0
+237,reuniao reuniao relatorio cliente cliente,Trabalho,0,0,0,0,0,0,0,2,0,1,0,2,0,0,0,0,0
+238,reuniao projeto equipe equipe prazo prazo prazo documento,Trabalho,0,0,0,0,0,0,0,1,1,0,2,0,3,0,1,0,0
+239,desconto projeto projeto projeto relatorio cliente cliente agenda conta,Trabalho,0,1,0,0,0,0,0,0,3,1,0,2,0,1,0,0,1
+240,promocao promocao desconto oferta oferta ganhe ganhe reuniao reuniao projeto cliente cliente,Trabalho,2,1,0,0,2,2,0,2,1,0,0,2,0,0,0,0,0
+241,desconto urgente reuniao projeto projeto relatorio equipe agenda acesso acesso,Trabalho,0,1,0,0,0,0,1,1,2,1,1,0,0,1,0,2,0
+242,promocao premio projeto projeto relatorio equipe equipe equipe prazo prazo agenda,Trabalho,1,0,0,1,0,0,0,0,2,1,3,0,2,1,0,0,0
+243,projeto projeto relatorio cliente agenda,Trabalho,0,0,0,0,0,0,0,0,2,1,0,1,0,1,0,0,0
+244,projeto relatorio cliente cliente cliente agenda,Trabalho,0,0,0,0,0,0,0,0,1,1,0,3,0,1,0,0,0
+245,ganhe reuniao projeto relatorio cliente documento,Trabalho,0,0,0,0,0,1,0,1,1,1,0,1,0,0,1,0,0
+246,promocao desconto ganhe ganhe reuniao relatorio equipe equipe prazo agenda conta,Trabalho,1,1,0,0,0,2,0,1,0,1,2,0,1,1,0,0,1
+247,ganhe reuniao reuniao equipe equipe cliente agenda documento,Trabalho,0,0,0,0,0,1,0,2,0,0,2,1,0,1,1,0,0
+248,equipe equipe prazo agenda,Trabalho,0,0,0,0,0,0,0,0,0,0,2,0,1,1,0,0,0
+249,desconto reuniao projeto projeto projeto cliente cliente documento,Trabalho,0,1,0,0,0,0,0,1,3,0,0,2,0,0,1,0,0
+250,premio oferta reuniao reuniao relatorio equipe equipe equipe prazo,Trabalho,0,0,0,1,1,0,0,2,0,1,3,0,1,0,0,0,0
+251,promocao desconto relatorio relatorio equipe equipe cliente cliente cliente prazo documento,Trabalho,1,1,0,0,0,0,0,0,0,2,2,3,1,0,1,0,0
+252,gratis gratis relatorio equipe equipe prazo,Trabalho,0,0,2,0,0,0,0,0,0,1,2,0,1,0,0,0,0
+253,gratis gratis relatorio equipe equipe cliente cliente conta,Trabalho,0,0,2,0,0,0,0,0,0,1,2,2,0,0,0,0,1
+254,reuniao cliente cliente prazo documento documento conta,Trabalho,0,0,0,0,0,0,0,1,0,0,0,2,1,0,2,0,1
+255,desconto premio reuniao reuniao projeto documento acesso,Trabalho,0,1,0,1,0,0,0,2,1,0,0,0,0,0,1,1,0
+256,oferta oferta equipe equipe prazo prazo agenda agenda documento acesso conta,Trabalho,0,0,0,0,2,0,0,0,0,0,2,0,2,2,1,1,1
+257,reuniao reuniao projeto prazo agenda agenda documento,Trabalho,0,0,0,0,0,0,0,2,1,0,0,0,1,2,1,0,0
+258,oferta urgente urgente reuniao reuniao reuniao relatorio equipe cliente prazo prazo agenda acesso conta conta,Trabalho,0,0,0,0,1,0,2,3,0,1,1,1,2,1,0,1,2
+259,reuniao projeto projeto projeto relatorio relatorio cliente cliente conta conta,Trabalho,0,0,0,0,0,0,0,1,3,2,0,2,0,0,0,0,2
+260,promocao promocao equipe equipe equipe prazo agenda agenda,Trabalho,2,0,0,0,0,0,0,0,0,0,3,0,1,2,0,0,0
+261,desconto reuniao reuniao projeto equipe equipe prazo,Trabalho,0,1,0,0,0,0,0,2,1,0,2,0,1,0,0,0,0
+262,desconto desconto projeto relatorio relatorio relatorio cliente documento acesso,Trabalho,0,2,0,0,0,0,0,0,1,3,0,1,0,0,1,1,0
+263,urgente projeto relatorio relatorio relatorio equipe equipe cliente cliente,Trabalho,0,0,0,0,0,0,1,0,1,3,2,2,0,0,0,0,0
+264,desconto gratis gratis reuniao cliente cliente prazo agenda conta,Trabalho,0,1,2,0,0,0,0,1,0,0,0,2,1,1,0,0,1
+265,urgente relatorio prazo agenda,Trabalho,0,0,0,0,0,0,1,0,0,1,0,0,1,1,0,0,0
+266,reuniao projeto equipe equipe equipe documento acesso,Trabalho,0,0,0,0,0,0,0,1,1,0,3,0,0,0,1,1,0
+267,reuniao equipe equipe cliente cliente cliente prazo prazo agenda,Trabalho,0,0,0,0,0,0,0,1,0,0,2,3,2,1,0,0,0
+268,desconto reuniao projeto relatorio prazo agenda acesso,Trabalho,0,1,0,0,0,0,0,1,1,1,0,0,1,1,0,1,0
+269,desconto projeto projeto relatorio relatorio relatorio cliente cliente cliente documento documento,Trabalho,0,1,0,0,0,0,0,0,2,3,0,3,0,0,2,0,0
+270,desconto ganhe ganhe urgente reuniao reuniao cliente cliente prazo agenda,Trabalho,0,1,0,0,0,2,1,2,0,0,0,2,1,1,0,0,0
+271,promocao oferta oferta urgente reuniao reuniao cliente cliente prazo prazo documento,Trabalho,1,0,0,0,2,0,1,2,0,0,0,2,2,0,1,0,0
+272,promocao reuniao reuniao projeto projeto relatorio relatorio cliente cliente cliente agenda documento conta,Trabalho,1,0,0,0,0,0,0,2,2,2,0,3,0,1,1,0,1
+273,reuniao projeto projeto equipe agenda agenda conta,Trabalho,0,0,0,0,0,0,0,1,2,0,1,0,0,2,0,0,1
+274,ganhe reuniao projeto projeto projeto relatorio equipe prazo prazo agenda,Trabalho,0,0,0,0,0,1,0,1,3,1,1,0,2,1,0,0,0
+275,gratis gratis reuniao reuniao reuniao projeto relatorio equipe equipe equipe prazo prazo prazo documento,Trabalho,0,0,2,0,0,0,0,3,1,1,3,0,3,0,1,0,0
+276,gratis premio premio reuniao projeto cliente prazo,Trabalho,0,0,1,2,0,0,0,1,1,0,0,1,1,0,0,0,0
+277,desconto desconto relatorio equipe cliente cliente agenda agenda documento acesso,Trabalho,0,2,0,0,0,0,0,0,0,1,1,2,0,2,1,1,0
+278,premio oferta ganhe ganhe reuniao reuniao projeto relatorio relatorio equipe prazo prazo documento acesso,Trabalho,0,0,0,1,1,2,0,2,1,2,1,0,2,0,1,1,0
+279,urgente projeto projeto projeto equipe equipe equipe cliente prazo documento,Trabalho,0,0,0,0,0,0,1,0,3,0,3,1,1,0,1,0,0
+280,oferta oferta urgente reuniao reuniao projeto projeto projeto equipe equipe agenda,Trabalho,0,0,0,0,2,0,1,2,3,0,2,0,0,1,0,0,0
+281,premio reuniao reuniao relatorio equipe cliente conta,Trabalho,0,0,0,1,0,0,0,2,0,1,1,1,0,0,0,0,1
+282,urgente projeto projeto projeto relatorio relatorio prazo documento documento,Trabalho,0,0,0,0,0,0,1,0,3,2,0,0,1,0,2,0,0
+283,reuniao relatorio relatorio relatorio cliente agenda agenda,Trabalho,0,0,0,0,0,0,0,1,0,3,0,1,0,2,0,0,0
+284,reuniao reuniao projeto agenda,Trabalho,0,0,0,0,0,0,0,2,1,0,0,0,0,1,0,0,0
+285,promocao oferta reuniao relatorio equipe cliente cliente acesso,Trabalho,1,0,0,0,1,0,0,1,0,1,1,2,0,0,0,1,0
+286,gratis premio reuniao reuniao reuniao relatorio equipe cliente cliente prazo,Trabalho,0,0,1,1,0,0,0,3,0,1,1,2,1,0,0,0,0
+287,premio projeto relatorio agenda documento,Trabalho,0,0,0,1,0,0,0,0,1,1,0,0,0,1,1,0,0
+288,projeto projeto projeto relatorio relatorio relatorio equipe agenda conta,Trabalho,0,0,0,0,0,0,0,0,3,3,1,0,0,1,0,0,1
+289,urgente reuniao equipe equipe,Trabalho,0,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0
+290,desconto oferta ganhe projeto relatorio relatorio cliente agenda acesso,Trabalho,0,1,0,0,1,1,0,0,1,2,0,1,0,1,0,1,0
+291,oferta ganhe ganhe documento acesso,Trabalho,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1,1,0
+292,desconto projeto relatorio relatorio relatorio equipe cliente agenda acesso,Trabalho,0,1,0,0,0,0,0,0,1,3,1,1,0,1,0,1,0
+293,oferta oferta reuniao cliente prazo prazo agenda acesso acesso,Trabalho,0,0,0,0,2,0,0,1,0,0,0,1,2,1,0,2,0
+294,oferta projeto projeto relatorio relatorio cliente prazo prazo documento,Trabalho,0,0,0,0,1,0,0,0,2,2,0,1,2,0,1,0,0
+295,desconto desconto oferta oferta reuniao relatorio prazo documento conta,Trabalho,0,2,0,0,2,0,0,1,0,1,0,0,1,0,1,0,1
+296,reuniao reuniao projeto relatorio cliente prazo prazo prazo documento,Trabalho,0,0,0,0,0,0,0,2,1,1,0,1,3,0,1,0,0
+297,urgente reuniao reuniao reuniao projeto projeto projeto equipe cliente cliente prazo acesso,Trabalho,0,0,0,0,0,0,1,3,3,0,1,2,1,0,0,1,0
+298,reuniao relatorio relatorio equipe equipe equipe prazo,Trabalho,0,0,0,0,0,0,0,1,0,2,3,0,1,0,0,0,0
+299,urgente urgente reuniao projeto relatorio equipe prazo,Trabalho,0,0,0,0,0,0,2,1,1,1,1,0,1,0,0,0,0
+300,urgente relatorio relatorio prazo prazo prazo agenda documento,Trabalho,0,0,0,0,0,0,1,0,0,2,0,0,3,1,1,0,0
